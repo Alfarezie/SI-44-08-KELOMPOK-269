@@ -1,0 +1,1 @@
+Sebagai pasien, Saya ingin melihat informasi obat sehingga sistem dapat menampilkan halaman informasi obat
